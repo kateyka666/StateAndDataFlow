@@ -70,10 +70,10 @@
 		3AFF15C326B868B0008E3390 /* StateAndDataFlow */ = {
 			isa = PBXGroup;
 			children = (
-				7910F81A26BAD9BE000BA763 /* Extensions */,
-				7910F81926BAD93D000BA763 /* Servises */,
 				7910F81826BAD934000BA763 /* View */,
 				7910F81726BAD925000BA763 /* ViewModel */,
+				7910F81926BAD93D000BA763 /* Servises */,
+				7910F81A26BAD9BE000BA763 /* Extensions */,
 				7910F81626BAD919000BA763 /* Resources */,
 				7910F81526BAD90A000BA763 /* Supporting Files */,
 			);
